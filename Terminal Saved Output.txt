@@ -1,0 +1,54 @@
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam2.jpg haarcascade_frontalface_default.xml 
+[[356 190 302 302]]
+Found 1 faces!
+[[421 309  60  60]
+ [521 270  74  74]]
+Found 2 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam3.jpg haarcascade_frontalface_default.xml 
+[[404 159 318 318]]
+Found 1 faces!
+[[554 326  53  53]
+ [524 338  41  41]
+ [471 266  65  65]
+ [589 266  64  64]]
+Found 4 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam4.jpg haarcascade_frontalface_default.xml 
+[[388 204 306 306]
+ [625 632  68  68]]
+Found 2 faces!
+[[440 310  68  68]
+ [556 285  78  78]]
+Found 2 eyes!
+[[440 310  68  68]
+ [556 285  78  78]]
+Found 2 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam.jpg haarcascade_frontalface_default.xml 
+[[460 157 316 316]]
+Found 1 faces!
+[[606 215 119 119]
+ [647 259  66  66]
+ [519 257  71  71]]
+Found 3 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam3.jpg haarcascade_frontalface_default.xml 
+[[404 159 318 318]]
+Found 1 faces!
+[[554 326  53  53]
+ [524 338  41  41]
+ [471 266  65  65]
+ [589 266  64  64]]
+Found 4 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam2.jpg haarcascade_frontalface_default.xml 
+[[356 190 302 302]]
+Found 1 faces!
+[[421 309  60  60]
+ [521 270  74  74]]
+Found 2 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ 
+Samuels-MacBook-Pro:FaceDetect sam$ 
+Samuels-MacBook-Pro:FaceDetect sam$ python face_detect.py sam2.jpg haarcascade_frontalface_default.xml 
+[[356 190 302 302]]
+Found 1 faces!
+[[421 309  60  60]
+ [521 270  74  74]]
+Found 2 eyes!
+Samuels-MacBook-Pro:FaceDetect sam$ 
